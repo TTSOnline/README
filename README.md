@@ -1,1 +1,4 @@
-# README
+- 👋 Hi, I’m @TTSOnline
+- 💞️ I am new to GITHUB.
+- 👀 I dont know coding.
+- 🌱 I'm Interested in learning to make ecommerce website using plugins etc.
